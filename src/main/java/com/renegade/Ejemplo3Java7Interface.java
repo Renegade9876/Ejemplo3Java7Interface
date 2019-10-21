@@ -1,6 +1,6 @@
 package com.renegade;
 
-public class Ejemplo3Java7Interface {
+public class Ejemplo3Java7Interface implements Operacion {
 
 	// Utilizando clases anónimas con Java 7.
 	public double sumar(double d1, double d2) {
